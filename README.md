@@ -5,7 +5,7 @@ A classic Breakout clone set in space.
 All script were written in C# by me.
 All sprites were created by me using Microsoft PowerPoint and GIMP.
 
-The game was created in the _Game Development Foundations_ course by @NotSlot as part of the _Bezalel Game Development and Design Minor_ of my _Computer Science B.Sc._ in _The Hebrew University, Jerusalem, Israel_.
+The game was created in the _Game Development Foundations_ course by [NotSlot](https://github.com/notslot) as part of the _Bezalel Game Development and Design Minor_ of my _Computer Science B.Sc._ in _The Hebrew University, Jerusalem, Israel_.
 
 To run the game on windows run the _Windows Build/Breakout.exe_ executable file.
 
