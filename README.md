@@ -7,7 +7,10 @@ All sprites were created by me using Microsoft PowerPoint and GIMP.
 
 The game was created in the _Game Development Foundations_ course as part of the _Bezalel Game Development and Design Minor_ of my _Computer Science B.Sc._ in _The Hebrew University, Jerusalem, Israel_.
 
-The _Game_ Directory contains the game's executable called _Breakout.exe_.
+To run the game on windows run the _Windows Build/Breakout.exe_ executable file.
+
+To run the game on mac run the  _Mac Build.app_ package.
+
 The _Source_ Directory contains all the source material excluding Unity's _TextMeshPro_ assets directory which can be downloaded directly through the _Unity Editor_.
 
 **Game Screenshots:**
